@@ -1,0 +1,42 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: purple;
+}
+.main {
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+    font-size: 1em;
+}
+
+.btn {
+    background-color: purple;
+    color: white;
+    border: none;
+}
+
+li {
+    padding: 10px;
+    margin-bottom: 5px;
+    border-bottom: 1.5px solid grey;
+}
+
+.text {
+    color: purple;
+}
+
+.label {
+    font-size: 0.7em;
+    color: grey;
+}
+input{
+    background-color: white;
+    color: purple;
+}
